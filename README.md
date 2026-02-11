@@ -13,3 +13,5 @@ npm run dev
 ```
 
 > **Note:** Make sure you are in the project folder before running these commands.
+
+Also the nav does not work lol
